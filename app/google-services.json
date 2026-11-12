@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "416598269921",
+    "project_id": "technova-mobile",
+    "storage_bucket": "technova-mobile.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416598269921:android:1fba510347cf9e23797ca0",
+        "android_client_info": {
+          "package_name": "com.technova.mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBdVOcuj9b9W2MVLWNMTj72mPOIyOeHMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
